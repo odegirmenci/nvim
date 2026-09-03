@@ -1,0 +1,56 @@
+{
+  "plugins": {
+    "bufferline.nvim": {
+      "rev": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3",
+      "src": "https://github.com/akinsho/bufferline.nvim"
+    },
+    "gitsigns.nvim": {
+      "rev": "5be654f2232c10ddcad19c1607a67b6b4b78fc29",
+      "src": "https://github.com/lewis6991/gitsigns.nvim"
+    },
+    "llama-cmp.nvim": {
+      "rev": "bbb38805e154c6236caad72345b0f864dbb6e8f8",
+      "src": "https://github.com/maxpaulus43/llama-cmp.nvim"
+    },
+    "mini.icons": {
+      "rev": "98faae31e9be1cc054ae63485e58ceb185efcad0",
+      "src": "https://github.com/nvim-mini/mini.icons"
+    },
+    "mini.statusline": {
+      "rev": "127997ebef7ef632161203b960c5ef9d158f4810",
+      "src": "https://github.com/nvim-mini/mini.statusline"
+    },
+    "mini.tabline": {
+      "rev": "525b27e98de7cd2a6012d99f45b4fc10676e00e5",
+      "src": "https://github.com/nvim-mini/mini.tabline"
+    },
+    "neo-tree.nvim": {
+      "rev": "f3f3bf73414e400cf9fc13fda50f00404a8f8ab1",
+      "src": "https://github.com/nvim-neo-tree/neo-tree.nvim"
+    },
+    "nui.nvim": {
+      "rev": "10fc361835c856ba4233ef5ea135b919bf3dce97",
+      "src": "https://github.com/MunifTanjim/nui.nvim"
+    },
+    "nvim-web-devicons": {
+      "rev": "5f032a85be210cd1c6ac98861eb3b187ff3bd5eb",
+      "src": "https://github.com/nvim-tree/nvim-web-devicons"
+    },
+    "onedark.nvim": {
+      "rev": "df4792accde9db0043121f32628bcf8e645d9aea",
+      "src": "https://github.com/navarasu/onedark.nvim"
+    },
+    "plenary.nvim": {
+      "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
+      "src": "https://github.com/nvim-lua/plenary.nvim"
+    },
+    "todo-comments.nvim": {
+      "rev": "31e3c38ce9b29781e4422fc0322eb0a21f4e8668",
+      "src": "https://github.com/folke/todo-comments.nvim"
+    },
+    "which-key.nvim": {
+      "rev": "3aab2147e74890957785941f0c1ad87d0a44c15a",
+      "src": "https://github.com/folke/which-key.nvim"
+    }
+  }
+}
